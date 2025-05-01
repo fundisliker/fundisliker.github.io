@@ -1,12 +1,12 @@
 
 a:link {
-  color: white;
+  color: darkviolet;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: royalblue;
+  color: darkviolet;
   background-color: transparent;
   text-decoration: none;
 }
@@ -18,7 +18,7 @@ a:hover {
 }
 
 a:active {
-  color: springgreen;
+  color: royalblue;
   background-color: transparent;
   text-decoration: underline;
 }
