@@ -34,10 +34,10 @@ header {
 
 body {
     margin: 0;
+    padding: 32px;
     background-color: black;
     color: white;
     text-align: left;
-    padding: 16px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
