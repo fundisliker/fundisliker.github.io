@@ -1,3 +1,28 @@
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: royalblue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: ghostwhite;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: springgreen;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 header {
     margin: 0;
     padding: 16px;
