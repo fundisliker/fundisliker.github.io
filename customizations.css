@@ -1,18 +1,18 @@
 
 a:link {
-  color: darkviolet;
+  color: ghostwhite;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: darkviolet;
+  color: ghostwhite;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: ghostwhite;
+  color: royalblue;
   background-color: transparent;
   text-decoration: underline;
 }
